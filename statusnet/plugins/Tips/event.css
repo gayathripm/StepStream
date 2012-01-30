@@ -1,0 +1,16 @@
+.tips-tags li { display: inline; }
+.tips-mentions li { display: inline; }
+.tips-avatar { float: left; }
+.tips-notice-count { float: right; }
+.tips-info { float: left; }
+.tips-title { margin-left: 0px; }
+#content .tips .entry-title { margin-left: 0px; }
+#content .tips .entry-content { margin-left: 0px; }
+.ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+    /* add padding to account for vertical scrollbar */
+    padding-right: 20px;
+}

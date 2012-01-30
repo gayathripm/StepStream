@@ -1,0 +1,30 @@
+# Translation of StatusNet - GoogleAnalytics to Breton (Brezhoneg)
+# Exported from translatewiki.net
+#
+# Author: Fulup
+# --
+# This file is distributed under the same license as the StatusNet package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: StatusNet - GoogleAnalytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-15 14:19+0000\n"
+"PO-Revision-Date: 2011-08-15 14:20:47+0000\n"
+"Language-Team: Breton <//translatewiki.net/wiki/Portal:br>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-POT-Import-Date: 2011-06-18 16:19:21+0000\n"
+"X-Generator: MediaWiki 1.19alpha (r94516); Translate extension (2011-07-09)\n"
+"X-Translation-Project: translatewiki.net at //translatewiki.net\n"
+"X-Language-Code: br\n"
+"X-Message-Group: #out-statusnet-plugin-googleanalytics\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. TRANS: Plugin description.
+msgid ""
+"Use <a href=\"http://www.google.com/analytics/\">Google Analytics</a> to "
+"track web access."
+msgstr ""
+"Ober gant <a href=\"http://www.google.com/analytics/\">Google Analytics</a> "
+"evit dispenn roudoù ar monedoù d'al lec'hien web."

@@ -1,0 +1,30 @@
+# Translation of StatusNet - APC to Macedonian (Македонски)
+# Exported from translatewiki.net
+#
+# Author: Bjankuloski06
+# --
+# This file is distributed under the same license as the StatusNet package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: StatusNet - APC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-15 14:19+0000\n"
+"PO-Revision-Date: 2011-08-15 14:19:51+0000\n"
+"Language-Team: Macedonian <//translatewiki.net/wiki/Portal:mk>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-POT-Import-Date: 2011-06-18 16:18:40+0000\n"
+"X-Generator: MediaWiki 1.19alpha (r94516); Translate extension (2011-07-09)\n"
+"X-Translation-Project: translatewiki.net at //translatewiki.net\n"
+"X-Language-Code: mk\n"
+"X-Message-Group: #out-statusnet-plugin-apc\n"
+"Plural-Forms: nplurals=2; plural=(n == 1 || n%10 == 1) ? 0 : 1;\n"
+
+#. TRANS: Plugin description.
+msgid ""
+"Use the <a href=\"http://pecl.php.net/package/apc\">APC</a> variable cache "
+"to cache query results."
+msgstr ""
+"Користи променлив кеш <a href=\"http://pecl.php.net/package/apc\">APC</a> за "
+"кеширање на резултати од барања."

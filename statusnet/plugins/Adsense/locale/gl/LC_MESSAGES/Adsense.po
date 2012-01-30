@@ -1,0 +1,106 @@
+# Translation of StatusNet - Adsense to Galician (Galego)
+# Exported from translatewiki.net
+#
+# Author: Toliño
+# --
+# This file is distributed under the same license as the StatusNet package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: StatusNet - Adsense\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-15 14:19+0000\n"
+"PO-Revision-Date: 2011-08-15 14:19:46+0000\n"
+"Language-Team: Galician <//translatewiki.net/wiki/Portal:gl>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-POT-Import-Date: 2011-06-18 16:18:37+0000\n"
+"X-Generator: MediaWiki 1.19alpha (r94516); Translate extension (2011-07-09)\n"
+"X-Translation-Project: translatewiki.net at //translatewiki.net\n"
+"X-Language-Code: gl\n"
+"X-Message-Group: #out-statusnet-plugin-adsense\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. TRANS: Menu item title/tooltip
+msgid "AdSense configuration"
+msgstr "Configuración de AdSense"
+
+#. TRANS: Menu item for site administration
+msgctxt "MENU"
+msgid "AdSense"
+msgstr "AdSense"
+
+#. TRANS: Plugin description.
+msgid "Plugin to add Google AdSense to StatusNet sites."
+msgstr ""
+
+#. TRANS: Title of AdSense administrator panel.
+msgctxt "TITLE"
+msgid "AdSense"
+msgstr "AdSense"
+
+#. TRANS: Instructions for AdSense administrator panel.
+msgid "AdSense settings for this StatusNet site"
+msgstr "Configuración de AdSense para este sitio StatusNet."
+
+#. TRANS: Field label in AdSense administration panel.
+msgid "Client ID"
+msgstr "Identificación do cliente"
+
+#. TRANS: Field title in AdSense administration panel.
+#, fuzzy
+msgid "Google client ID."
+msgstr "Identificación do cliente de Google"
+
+#. TRANS: Field label in AdSense administration panel.
+msgid "Ad script URL"
+msgstr ""
+
+#. TRANS: Field title in AdSense administration panel.
+msgid "Script URL (advanced)."
+msgstr ""
+
+#. TRANS: Field label in AdSense administration panel.
+msgid "Medium rectangle"
+msgstr ""
+
+#. TRANS: Field title in AdSense administration panel.
+msgid "Medium rectangle slot code."
+msgstr ""
+
+#. TRANS: Field label in AdSense administration panel.
+msgid "Rectangle"
+msgstr "Rectángulo"
+
+#. TRANS: Field title in AdSense administration panel.
+#, fuzzy
+msgid "Rectangle slot code."
+msgstr "Rectángulo"
+
+#. TRANS: Field label in AdSense administration panel.
+msgid "Leaderboard"
+msgstr "Taboleiro de logros"
+
+#. TRANS: Field title in AdSense administration panel.
+#, fuzzy
+msgid "Leaderboard slot code."
+msgstr "Taboleiro de logros"
+
+#. TRANS: Field label in AdSense administration panel.
+msgid "Skyscraper"
+msgstr "Rañaceos"
+
+#. TRANS: Field title in AdSense administration panel.
+msgid "Wide skyscraper slot code."
+msgstr ""
+
+#. TRANS: Button text to save settings in AdSense administration panel.
+#, fuzzy
+msgctxt "BUTTON"
+msgid "Save"
+msgstr "Gardar"
+
+#. TRANS: Button title to save settings in AdSense administration panel.
+#, fuzzy
+msgid "Save AdSense settings."
+msgstr "Gardar a configuración de AdSense"

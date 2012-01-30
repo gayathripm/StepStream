@@ -1,0 +1,32 @@
+# Translation of StatusNet - ReverseUsernameAuthentication to Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+# Exported from translatewiki.net
+#
+# Author: Nghtwlkr
+# --
+# This file is distributed under the same license as the StatusNet package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: StatusNet - ReverseUsernameAuthentication\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-15 14:19+0000\n"
+"PO-Revision-Date: 2011-08-15 14:22:00+0000\n"
+"Language-Team: Norwegian (bokmål)‬ <//translatewiki.net/wiki/Portal:no>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-POT-Import-Date: 2011-06-05 21:51:27+0000\n"
+"X-Generator: MediaWiki 1.19alpha (r94516); Translate extension (2011-07-09)\n"
+"X-Translation-Project: translatewiki.net at //translatewiki.net\n"
+"X-Language-Code: no\n"
+"X-Message-Group: #out-statusnet-plugin-reverseusernameauthentication\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. TRANS: Plugin description.
+msgid ""
+"The Reverse Username Authentication plugin allows for StatusNet to handle "
+"authentication by checking if the provided password is the same as the "
+"reverse of the username."
+msgstr ""
+"Utvidelsen Reverse Username Authentication gjør det mulig for StatusNet å "
+"håndtere autentisering ved å sjekke om det oppgitte passordet er det samme "
+"som brukernavnet baklengs."
