@@ -27,9 +27,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-if (!defined('STATUSNET')) {
-    exit(1);
-}
+
 
 /**
  * Data class for happenings

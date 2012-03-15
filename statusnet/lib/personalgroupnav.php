@@ -83,7 +83,7 @@ class PersonalGroupNav extends Menu
                                  _m('MENU','Tips'),
                                  // TRANS: Menu item title in personal group navigation menu.
                                  // TRANS: %s is a username.
-                                 sprintf(_('Replies to %s'), $name),
+                                 sprintf(_('Tips for %s'), $name),
                                  $mine && $action =='replies', 'nav_timeline_tips');
       
 

@@ -94,6 +94,8 @@ class AccountProfileBlock extends ProfileBlock
         return $this->profile->bio;
     }
 
+
+
     function showTags()
     {
         $cur = common_current_user();
@@ -127,6 +129,12 @@ class AccountProfileBlock extends ProfileBlock
                 $this->out->elementEnd('div');
                 return;
             }
+
+                $this->out->elementStart('iframe', array('id' => 'graph_progress' , 'width' => '100%' , 'height' => '300px', 'src' => 'http://localhost/statusnet/graph.php?profile_id=' . $this->user->id));
+
+                $this->out->elementEnd('iframe');
+
+
 
             $cur = common_current_user();
 

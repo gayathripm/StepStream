@@ -28,11 +28,7 @@
  * @link      http://status.net/
  */
 
-if (!defined('STATUSNET')) {
-    // This check helps protect against security problems;
-    // your code file can't be executed directly from the web.
-    exit(1);
-}
+
 
 /**
  * Event plugin
@@ -86,9 +82,12 @@ class EventPlugin extends MicroappPlugin
         case 'ShoweventAction':
         case 'ShowrsvpAction':
         case 'TimelistAction':
+        case 'TwilioAction':
             include_once $dir . '/' . strtolower(mb_substr($cls, 0, -6)) . '.php';
             return false;
+        
         case 'EventListItem':
+
         case 'RSVPListItem':
         case 'EventForm':
         case 'RSVPForm':
@@ -117,6 +116,9 @@ class EventPlugin extends MicroappPlugin
     {
         $m->connect('main/event/new',
                     array('action' => 'newevent'));
+
+$m->connect('test/twilio',
+                    array('action' => 'twilio'));
         $m->connect('main/event/rsvp',
                     array('action' => 'newrsvp'));
         $m->connect('main/event/rsvp/cancel',
